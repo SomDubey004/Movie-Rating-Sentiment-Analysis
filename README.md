@@ -59,48 +59,6 @@ The dashboard helps users explore movie ratings, genres, languages, popularity, 
 
 ---
 
-# 📂 Project Structure
-
-Movie Rating & Sentiment Analysis
-
-├── Data/
-
-│ ├── raw_movies_data.csv
-
-│ ├── cleaned_movies_data.csv
-
-│ └── movie_analysis_data.csv
-
-│
-
-├── Notebook/
-
-│ ├── Data_Collection.ipynb
-
-│ ├── Data_Cleaning.ipynb
-
-│ └── EDA_Sentiment_Analysis.ipynb
-
-│
-
-├── Dashboard/
-
-│ ├── app.py
-
-│ └── pages/
-
-│ ├── Genre_Analysis.py
-
-│ ├── Language_Analysis.py
-
-│ └── Sentiment_Analysis.py
-
-│
-
-└── README.md
-
----
-
 # 🔍 Data Collection
 
 Movie data was collected using the TMDB (The Movie Database) API.
