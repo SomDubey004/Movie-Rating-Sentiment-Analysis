@@ -159,6 +159,8 @@ Additional columns created:
 * KPI Cards
 * Rating Distribution
 * Top Rated Movies
+![Streamlit Dashboard Executive Overview](F:\Screenshot\Screenshot 2026-06-23 164556.png)
+*Screenshot of the Streamlit dashboard executive overview.*
 
 ### Genre Analysis
 
