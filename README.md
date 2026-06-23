@@ -236,7 +236,7 @@ Focused on building end-to-end analytics solutions involving data collection, da
 
 GitHub: https://github.com/Somdubey004
 
-Portfolio: https://somdubey004.github.io/somdubey.github.io/
+Portfolio: https://somdubey004.github.io/
 
 LinkedIn: [Add Your LinkedIn URL]
 
