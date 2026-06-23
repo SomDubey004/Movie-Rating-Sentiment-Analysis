@@ -159,8 +159,6 @@ Additional columns created:
 * KPI Cards
 * Rating Distribution
 * Top Rated Movies
-![Streamlit Dashboard Executive Overview](F:\Screenshot\Screenshot 2026-06-23 164556.png)
-*Screenshot of the Streamlit dashboard executive overview.*
 
 ### Genre Analysis
 
@@ -186,8 +184,8 @@ Additional columns created:
 
 ## Executive Overview
 
-[Insert Screenshot Here]
-
+![Streamlit Dashboard Executive Overview](F:\Screenshot\Screenshot 2026-06-23 164556.png)
+*Screenshot of the Streamlit dashboard executive overview.*
 ---
 
 ## Genre Analysis
@@ -230,9 +228,17 @@ Additional columns created:
 
 # 👨‍💻 Author
 
-Som Dubey
+### Som Dubey
 
-Aspiring Data Analyst
+Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Streamlit.
 
-Skills: Python | SQL | Power BI | Pandas | Streamlit | Data Visualization
+Focused on building end-to-end analytics solutions involving data collection, data cleaning, exploratory data analysis, business intelligence dashboards, and data storytelling.
+
+#### Connect
+
+GitHub: https://github.com/Somdubey004
+
+Portfolio: https://somdubey004.github.io/somdubey.github.io/
+
+LinkedIn: [Add Your LinkedIn URL]
 
