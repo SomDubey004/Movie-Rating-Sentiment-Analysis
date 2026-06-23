@@ -184,9 +184,7 @@ Additional columns created:
 
 ## Executive Overview
 
-![Streamlit Dashboard Executive Overview]("F:\Screenshot\Screenshot 2026-06-23 164556.png")
-*Screenshot of the Streamlit dashboard executive overview.*
----
+<img width="1918" height="1078" alt="Screenshot 2026-06-23 164556" src="https://github.com/user-attachments/assets/3af3354b-a151-4883-855b-8a4f1969be44" />
 
 ## Genre Analysis
 
